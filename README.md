@@ -1,8 +1,8 @@
 # Digital Literacy Project
 
-**Name:** [Your Name]  
-**Registration Number:** [Your Reg No.]  
-**Branch:** [Your Branch]  
+**Name:** Aquib Javed  
+**Registration Number:** 25BCY10164  
+**Branch:** CSE(Cybersecurity and Digital Forensics)  
 **Year:** 1st Year  
 
 ## 📌 Project Overview
