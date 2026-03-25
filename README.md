@@ -29,8 +29,9 @@ Set up profiles on GitHub, LinkedIn, and Kaggle.
 - Designed prevention checklist  
 
 ## 🔗 Links
-- Google Form: [Paste your link here]
-- Canva Design: [Paste link if available]
+- Google Form: https://docs.google.com/forms/d/e/1FAIpQLSf3pYFVdSkEesx5BreEHS73Sc513rRf5E49-cjLnCHJu5_sUw/viewform?usp=preview
+- Canva Design: https://github.com/USCoder1776/Digital-Literacy-Project/blob/main/task-1-presentation/%23infographic.png
+
 
 ## 📁 Repository Structure
 - task-1-presentation/
